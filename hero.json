@@ -2,6 +2,10 @@
     "firstName": "Kid",
     "lastName": "Flash",
     "preferredName": "Kid",
-    "seatLocation": " ",
-    "favoriteHobby": "Track"
+    "phoneNumber" : "6605004329",
+    "city" : "Detroit",
+    "State" : "MI",
+    "Zip" : "67890",
+    "favoriteHobby": "Track",
+    "seatLocation": " "
 }
