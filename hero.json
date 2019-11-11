@@ -1,11 +1,11 @@
 {
     "firstName": "Kid",
     "lastName": "Flash",
-    "preferredName": "Kid",
+    "email": "christianaescobare@lewisu.edu",
     "phoneNumber" : "6605004329",
     "city" : "Detroit",
     "State" : "MI",
     "Zip" : "67890",
     "favoriteHobby": "Track",
-    "seatLocation": " "
+    "seatLocation": ""
 }
