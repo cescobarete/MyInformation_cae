@@ -2,10 +2,10 @@
     "firstName": "Kid",
     "lastName": "Flash",
     "email": "christianaescobare@lewisu.edu",
-    "phoneNumber" : "6605004329",
-    "city" : "Detroit",
-    "State" : "MI",
-    "Zip" : "67890",
+    "phoneNumber": "6605004329",
+    "city": "Detroit",
+    "State": "MI",
+    "Zip": "67890",
     "favoriteHobby": "Track",
     "seatLocation": ""
 }
